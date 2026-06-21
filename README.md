@@ -1,17 +1,17 @@
 # From Strategy to Delivery
 
 **Andrew Butenko**  
-Enterprise Architecture • Solution Architecture • Architecture Analysis • Digital Transformation • AI
+Enterprise Architecture • Solutions Architecture • Business Analysis • Digital Transformation • Platform Engineering • AI
 
-_Another Architecture Portfolio :). Prepared in support my interview process._
+_Another Architecture Portfolio :). Prepared in support of my interview processes._
 
 ---
 
 ## How to read this file
 
-This portfolio is designed as a conversation guide rather than a formal presentation. It aligns with an [architecture-as-code](https://github.com/banban/architecture-as-code) style repository because it is text-based, versionable, readable, reusable, and extensible with Mermaid diagrams, images, and links.
+This portfolio is designed as a conversation guide rather than a formal presentation. It aligns with an [architecture-as-code](https://github.com/banban/architecture-as-code) style repository because it is text-based, evolution/versional, readable, reusable, and extensible with Mermaid diagrams, images, and links.
 
-> It shows how I approach architecture analysis, solution design, transformation, and delivery. I do not need to present it formally, but I am happy to refer to examples if useful.
+> It shows how I approach architecture analysis, solution design, transformation, and delivery. I do not need to present it formally, but I am happy to refer to examples if useful. And yes, I do not use PowerPoint in 99% of cases.
 
 ---
 
@@ -32,7 +32,7 @@ flowchart LR
 
 | Capability Area | Evidence |
 |---|---|
-| Architecture | Solution Architecture, Enterprise Architecture practices, governance, capability alignment |
+| Architecture | Solutions Architecture, Enterprise Architecture practices, governance, capability alignment |
 | Transformation Delivery | ERP transformation, cloud platforms, integrations, AI and knowledge management |
 | Professional Practice | TOGAF Practitioner, Architecture-as-Code, technical author, continuous learning |
 
@@ -44,7 +44,7 @@ flowchart LR
 
 # 2. Professional Journey
 
-## How has my experience shaped my architectural perspective?
+## How has my experience shaped my perspective?
 
 ```mermaid
 timeline
@@ -52,8 +52,8 @@ timeline
     1995 : Software Engineering
     2002 : Systems and Database Architecture
     2011 : Enterprise Data and Analytics
-    2013 : Defence Sector Solution Delivery
-    2022 : Solution Architecture
+    2013 : Defence Sector Solutions Delivery
+    2022 : Solutions Architecture
     2024 : Enterprise Architecture Practices
     2026 : AI-enabled Digital Transformation
 ```
@@ -66,7 +66,7 @@ timeline
 - Governance enables sustainable change.
 - AI amplifies business capability when applied responsibly.
 
-> I started my career as a software engineer, learning how quality systems are designed, built, and supported. Over time, I moved into enterprise data, business intelligence, systems integration, and solution architecture. More recently, my work expanded into enterprise architecture practices including governance, roadmaps, capability thinking, and AI-enabled transformation.
+> I started my career as a software engineer, learning how quality systems are designed, built, and supported. Over time, I moved into enterprise data, business intelligence, systems integration, and solutions architecture. More recently, my work expanded into enterprise architecture practices including governance, roadmaps, capability thinking, and AI-enabled transformation.
 
 ---
 
@@ -167,7 +167,7 @@ mindmap
       Business needs
       Capability alignment
       Trade-offs
-    Solution Architecture
+    Solutions Architecture
       Integration
       Cloud
       Security
@@ -292,8 +292,9 @@ flowchart TD
     D --> D3[Outcome: faster and more consistent advice]
 ```
 
-**Speaker notes:** These examples show a consistent approach across different technologies: understand the business problem, analyse constraints, design architecture options, and deliver practical outcomes.
+> These examples show a consistent approach across different technologies: understand the business problem, analyse constraints, design architecture options, and deliver practical outcomes.
 
+![understanding client requirements.PNG](./images/understanding_client_requirements.PNG)
 ---
 
 # 11. Professional Thought Leadership
@@ -363,7 +364,7 @@ flowchart LR
     R --> S[Stakeholder Engagement]
     R --> D[Solution Design]
     E[My Experience] --> AA[Analysis]
-    E --> SA[Solution Architecture]
+    E --> SA[Solutions Architecture]
     E --> DT[Digital Transformation]
     E --> GD[Governed Delivery]
     AA --> V[Value]
@@ -374,7 +375,7 @@ flowchart LR
 
 | Role expectation | My alignment |
 |---|---|
-| Architecture analysis | Strong system analysis and solution architecture background |
+| Architecture analysis | Strong system analysis and solutions architecture background |
 | Solution design | Enterprise integration, cloud, ERP, AI and reporting |
 | Governance | TOGAF, architecture artefacts, reviews, decision records |
 | Stakeholder engagement | Business systems, finance, ICT, pre/post sales support, engineering, vendors |
@@ -382,7 +383,7 @@ flowchart LR
 
 ---
 
-# 14. What I Hope to Contribute
+# 14. How Can I Contribute?
 
 ## What value will I bring to the team?
 
@@ -403,7 +404,7 @@ flowchart TD
 - Governed adoption of AI and emerging technologies.
 - Reusable architecture practices and documentation.
 
-**Speaker notes:** My goal is not simply to design solutions. My goal is to help people make better technology decisions, reduce ambiguity, and create architecture that delivery teams can actually use.
+> My goal is not simply to design solutions. My goal is to help people make better technology decisions, reduce ambiguity, and create architecture that delivery teams can actually use.
 
 ---
 
@@ -446,15 +447,15 @@ Blog: andrewbutenko.wordpress.com
 
 Thank you for reading my story. I appreciate the opportunity to discuss how my experience aligns with this role.
 
-My background combines software engineering, system analysis, enterprise integration, solution architecture, cloud, AI, and architecture governance. I spent many years working in different environments where technology decisions needed to balance business value, operational constraints, security, compliance, and delivery practicality.
+My background combines software engineering, system analysis, enterprise integration, solutions architecture, cloud, AI, and architecture governance. I spent many years working in different environments where technology decisions needed to balance business value, operational constraints, security, compliance, and delivery practicality.
 
-My strongest area are development, solution architecture, platform engineering. But I also bring strong architecture analysis capability: understanding business needs, analysing constraints, shaping architecture options, and translating complex technical topics into language that business and delivery stakeholders can work with.
+My strongest area are development, solutions architecture, platform engineering. But I also bring strong architecture analysis capability: understanding business needs, analysing constraints, shaping architecture options, and translating complex technical topics into language that business and delivery stakeholders can work with.
 
 ---
 
 # Appendix B - Architects vs Others
 
-TOGAF defines clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SME) specialists. I also see Business Analysis as adaptation the discipline that ensures solution architecture is grounded in the right business problem.
+TOGAF defines clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SME) specialists. I also see Business Analysis as adaptation the discipline that ensures solutions architecture is grounded in the right business problem.
 
 A Solution Architect focuses heavily on solution design and technology choices. An Architecture Analyst contributes by understanding business drivers, analysing capabilities and constraints, assessing options, supporting governance, and helping maintain traceability from business need to architecture decision.
 
@@ -465,7 +466,7 @@ In practice, I have worked across both areas. My strength is that I can analyse 
 # Appendix C - My Stack
 
 My strongest production background is C#, SQL, and Python. Python has been important for automation, AI, data engineering, integration and scripting. I also have educational experience with C++, Java. I understand modern cloud-native services (Azure, AWS, Oracle), and microservice-style development (Go, Docker, Kubernetes). More broadly, as an architect, I focus on understanding the strengths of the platforms, trade-offs, runtime characteristics and delivery implications of different technology stacks rather than promoting a single preferred language.\
-And yes, I am full-stack experienced system engineer: backend, middleware, frontend.
+And yes, I am full-stack aware/experienced system engineer: backend, middleware, frontend.
 
 ---
 
@@ -478,4 +479,4 @@ And yes, I am full-stack experienced system engineer: backend, middleware, front
 | Adaptability | Bottlenecks are constantly migrating |
 | Collaboration | Show me your frameworks and I will find how to improve it and connect with others |
 | Integrity | Challenging stakeholder-requested solution when better option existed |
-| Inspiration | Architecture-as-Code, blogging, ML/AI explorative enthusiast |
+| Inspiration | Architecture-as-Code, blogging, ML/AI exploration enthusiast |
