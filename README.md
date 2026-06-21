@@ -203,7 +203,7 @@ mindmap
 
 ```mermaid
 flowchart LR
-    L[Legacy Landscape] --> O[Oracle Fusion]
+    L[Legacy Landscape] --> O[Vendor Cloud]
     O --> I[Integration Layer]
     I --> D[Data and Reporting]
     D --> B[Business Insight]
@@ -279,7 +279,7 @@ flowchart LR
 ## What business outcomes have I delivered?
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Architecture Case Studies] --> B[Enterprise Integration]
     A --> C[Digital Transformation]
     A --> D[AI Knowledge Platform]
