@@ -3,7 +3,7 @@
 **Andrew Butenko**  
 Enterprise Architecture • Solutions Architecture • Business Analysis • Digital Transformation • Platform Engineering • AI
 
-_Another Architecture Portfolio :). Prepared in support of my interview processes._
+_Another Architecture Portfolio :). Prepared in support of my interview process._
 
 ---
 
@@ -87,6 +87,8 @@ flowchart TD
 
 ## My approach
 Every architecture initiative starts with understanding the business problem rather than selecting a technology. My role is to analyse stakeholder needs, understand constraints, explore options, and recommend an architecture that balances business value, feasibility, cost, and risk.
+
+![understanding client requirements.PNG](./images/understanding_client_requirements.PNG)
 
 - Understand business objectives before proposing technology.
 - Analyse stakeholder needs, constraints, and risks.
@@ -294,8 +296,6 @@ flowchart TD
 
 > These examples show a consistent approach across different technologies: understand the business problem, analyse constraints, design architecture options, and deliver practical outcomes.
 
-![understanding client requirements.PNG](./images/understanding_client_requirements.PNG)
-
 ---
 
 # 11. Professional Thought Leadership
@@ -418,7 +418,7 @@ flowchart TD
 - What are the main challenges the Architecture role is expected to address in the first six months?
 - How mature are the current architecture artefacts, models, and repositories?
 - How does Solutions Architecture work together with other roles in practice?
-- What would success look like after 6–12 months?
+- What would success look like after 6-12 months?
 
 > I use these questions depending on how the conversation develops.
 
