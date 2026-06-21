@@ -22,7 +22,7 @@ This portfolio is designed as a conversation guide rather than a formal presenta
 I help organisations translate business needs into practical architecture decisions, governed solution designs, and measurable business outcomes.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Business Need] --> B[Architecture Analysis]
     B --> C[Solution Options]
     C --> D[Architecture Decision]
@@ -51,7 +51,7 @@ timeline
     title Professional Evolution
     1995 : Software Engineering
     2002 : Systems and Database Architecture
-    2011 : Enterprise Data and Analytics
+    2007 : Enterprise Data and Analytics
     2013 : Defence Sector Solutions Delivery
     2022 : Solutions Architecture
     2024 : Enterprise Architecture Practices
@@ -102,7 +102,7 @@ Every architecture initiative starts with understanding the business problem rat
 ## How do I structure enterprise transformation?
 
 ```mermaid
-flowchart LR
+flowchart TD
     V[Vision] --> C[Business Capability]
     C --> A[Architecture]
     A --> S[Solutions]
@@ -132,7 +132,7 @@ I use TOGAF as a practical thinking framework, not as a rigid checklist.
 ## How do I connect strategy with engineering?
 
 ```mermaid
-flowchart LR
+flowchart TD
     E[Engineering Model] --> A[Architecture Interpretation]
     A --> B[Business Capability View]
     B --> M[ArchiMate Viewpoint]
@@ -202,7 +202,7 @@ mindmap
 ## How can I contribute to large enterprise transformation?
 
 ```mermaid
-flowchart LR
+flowchart TD
     L[Legacy Landscape] --> O[Vendor Cloud]
     O --> I[Integration Layer]
     I --> D[Data and Reporting]
@@ -337,12 +337,11 @@ I have invested in documenting technical and architecture knowledge because reus
 | Behaviour | Example to use in interview |
 |---|---|
 | Strategic Vision | Enterprise architecture and transformation roadmaps |
-| Creativity | Middleware solution for Oracle invoice constraints |
 | Adaptability | Cloud, AI, ERP and integration changes |
-| Collaboration | Business stakeholders, developers, vendors, finance, payroll, ICT |
+| Collaboration | Business stakeholders, developers, vendors, finance, ICT |
 | Integrity | Challenging requested solutions when better options existed |
 | Courage | Taking ownership of difficult integration and governance problems |
-| Inspiration | Architecture-as-Code, blog, AI knowledge assistants |
+| Inspiration | Architecture-as-Code, modern trends, AI-powered SDLC |
 
 It is not only about technical capability. It is also about how I work with people, communicate, adapt, and contribute to trust and collaboration.
 
@@ -373,7 +372,7 @@ flowchart LR
 | Solution design | Enterprise integration, cloud, ERP, AI and reporting |
 | Governance | TOGAF, architecture artefacts, reviews, decision records |
 | Stakeholder engagement | Business systems, finance, ICT, pre/post sales support, engineering, vendors |
-| Technical breadth | C#, Python, SQL, Azure, Power BI, Oracle, integrations; exposure to data platforms (Databricks, Snowflake, etc.) and modern cloud-native services |
+| Technical breadth | C#, Python, SQL, Azure, Power BI, integrations; exposure to data platforms (Databricks, Snowflake, etc.) and modern cloud-native services |
 
 ---
 
@@ -422,7 +421,7 @@ flowchart TD
 > Great architecture is not measured only by diagrams produced. It is measured by the decisions it enables and the outcomes it supports.
 
 ```mermaid
-flowchart LR
+flowchart TD
     U[Understanding] --> A[Analysis]
     A --> D[Decision]
     D --> E[Execution]
@@ -436,7 +435,7 @@ Blog: andrewbutenko.wordpress.com
 
 ---
 
-# Appendix A - 90 Second Introduction
+# Appendix A - 60 Second Introduction
 
 Thank you for reading my story. I appreciate the opportunity to discuss how my experience aligns with your expectations.
 
@@ -446,9 +445,9 @@ My strongest areas are development, solutions architecture, and platform enginee
 
 ---
 
-# Appendix B - Architects vs Others
+# Appendix B - How it works for me
 
-TOGAF defines a clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SME) specialists. I also see business analysis as an adaptation of the discipline that ensures solutions architecture is grounded in the right business problem.
+TOGAF defines a clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SMEs) specialists. I also see system design and analysis as an adaptation of the discipline that ensures solutions architecture is grounded in the right business problem.
 
 A Solutions Architect focuses heavily on solution design and technology choices. An Architecture Analyst contributes by understanding business drivers, analysing capabilities and constraints, assessing options, supporting governance, and helping maintain traceability from business need to architecture decision.
 
