@@ -147,11 +147,11 @@ flowchart LR
 
 > One of the most valuable parts of architecture work is translating detailed engineering or systems models into architecture views that different stakeholders can understand.
 
-MBSE engineering vision ([source](https://linkedin.com/posts/memko_mbse-digitalengineering-systemsengineering-activity-7335173854996111361-Eb9C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAY5S2gB8sDHYfQRv2xRKKC8Q9KRaEMW6IU))
-![Blog stats](./images/mbse_promise.PNG)
+MBSE engineering vision ([source](https://linkedin.com/posts/memko_mbse-digitalengineering-systemsengineering-activity-7335173854996111361-Eb9C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAY5S2gB8sDHYfQRv2xRKKC8Q9KRaEMW6IU)).
+![MBSE promise](./images/mbse_promise.PNG)
 
-The vision translated into architecture context ([ArchiMate](https://www.archimatetool.com/)) 
-![Blog stats](./images/mbse_architecture_context.PNG)
+Translated architecture view ([ArchiMate](https://www.archimatetool.com/)) 
+![MBSE architecture](./images/mbse_architecture_context.PNG)
 
 
 ---
@@ -295,6 +295,7 @@ flowchart TD
 > These examples show a consistent approach across different technologies: understand the business problem, analyse constraints, design architecture options, and deliver practical outcomes.
 
 ![understanding client requirements.PNG](./images/understanding_client_requirements.PNG)
+
 ---
 
 # 11. Professional Thought Leadership
@@ -416,7 +417,7 @@ flowchart TD
 - How are architecture decisions governed and recorded?
 - What are the main challenges the Architecture role is expected to address in the first six months?
 - How mature are the current architecture artefacts, models, and repositories?
-- How do Solution Architects and other roles work together in practice?
+- How does Solutions Architecture work together with other roles in practice?
 - What would success look like after 6–12 months?
 
 > I use these questions depending on how the conversation develops.
@@ -425,8 +426,7 @@ flowchart TD
 
 # 16. Closing
 
-> **Great architecture is not measured only by diagrams produced.**  
-> **It is measured by the decisions it enables and the outcomes it supports.**
+> Great architecture is not measured only by diagrams produced. It is measured by the decisions it enables and the outcomes it supports.
 
 ```mermaid
 flowchart LR
@@ -445,7 +445,7 @@ Blog: andrewbutenko.wordpress.com
 
 # Appendix A - 90 Second Introduction
 
-Thank you for reading my story. I appreciate the opportunity to discuss how my experience aligns with this role.
+Thank you for reading my story. I appreciate the opportunity to discuss how my experience aligns with your expectations.
 
 My background combines software engineering, system analysis, enterprise integration, solutions architecture, cloud, AI, and architecture governance. I spent many years working in different environments where technology decisions needed to balance business value, operational constraints, security, compliance, and delivery practicality.
 
@@ -455,9 +455,9 @@ My strongest area are development, solutions architecture, platform engineering.
 
 # Appendix B - Architects vs Others
 
-TOGAF defines clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SME) specialists. I also see Business Analysis as adaptation the discipline that ensures solutions architecture is grounded in the right business problem.
+TOGAF defines clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SME) specialists. I also see business analysis as adaptation the discipline that ensures solutions architecture is grounded in the right business problem.
 
-A Solution Architect focuses heavily on solution design and technology choices. An Architecture Analyst contributes by understanding business drivers, analysing capabilities and constraints, assessing options, supporting governance, and helping maintain traceability from business need to architecture decision.
+A Solutions Architecture focuses heavily on solution design and technology choices. An Architecture Analyst contributes by understanding business drivers, analysing capabilities and constraints, assessing options, supporting governance, and helping maintain traceability from business need to architecture decision.
 
 In practice, I have worked across both areas. My strength is that I can analyse the business and system context, but I also remain technically credible enough to shape solution design and support delivery.
 
@@ -465,7 +465,7 @@ In practice, I have worked across both areas. My strength is that I can analyse 
 
 # Appendix C - My Stack
 
-My strongest production background is C#, SQL, and Python. Python has been important for automation, AI, data engineering, integration and scripting. I also have educational experience with C++, Java. I understand modern cloud-native services (Azure, AWS, Oracle), and microservice-style development (Go, Docker, Kubernetes). More broadly, as an architect, I focus on understanding the strengths of the platforms, trade-offs, runtime characteristics and delivery implications of different technology stacks rather than promoting a single preferred language.\
+My strongest production background is C#, SQL, and Python, AI, data engineering, integration and scripting. I also have educational experience with C++, Java, Go. I understand modern cloud-native services (Azure, AWS, GPC, Oracle), and microservice-style development (Docker, Kubernetes). More broadly, as an architect, I focus on understanding the strengths of the platforms, trade-offs, runtime characteristics and delivery implications of different technology stacks rather than promoting a single preferred language.\
 And yes, I am full-stack aware/experienced system engineer: backend, middleware, frontend.
 
 ---
