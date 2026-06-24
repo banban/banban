@@ -7,7 +7,7 @@ _Another Practitioner Portfolio :). Prepared in support of my interview process.
 
 ---
 
-## How to read this file
+## How to read this document
 
 This portfolio is designed as a conversation guide rather than a formal presentation. It aligns with an [architecture-as-code](https://github.com/banban/architecture-as-code) style repository because it is text-based, evolutionary, versioned, readable, reusable, and extensible with Mermaid diagrams, images, and links.
 
@@ -111,9 +111,9 @@ flowchart TD
     G --> I[Continuous Improvement]
 ```
 
-## Practical use of TOGAF
+## Practical use
 
-I use TOGAF as a practical thinking framework, not as a rigid checklist.
+I use different methodologies and frameworks for practical thinking, not as a rigid checklist.
 
 | TOGAF concept | Practical use |
 |---|---|
@@ -123,7 +123,7 @@ I use TOGAF as a practical thinking framework, not as a rigid checklist.
 | Opportunities and Solutions | Prioritise delivery roadmap |
 | Governance | Maintain alignment and control |
 
-> TOGAF helps structure conversations and decisions. It provides a common language to connect business strategy, capabilities, architecture, delivery, and governance.
+> A good framework helps structure conversations and decisions. It provides a common language to connect business strategy, capabilities, architecture, delivery, and governance.
 
 ---
 
@@ -370,7 +370,7 @@ flowchart LR
 |---|---|
 | Architecture analysis | Strong system analysis and solutions architecture background |
 | Solution design | Enterprise integration, cloud, ERP, AI and reporting |
-| Governance | TOGAF, architecture artefacts, reviews, decision records |
+| Governance | TOGAF ADM, architecture artefacts, reviews, decision records |
 | Stakeholder engagement | Business systems, finance, ICT, pre/post sales support, engineering, vendors |
 | Technical breadth | C#, Python, SQL, Azure, Power BI, integrations; exposure to data platforms (Databricks, Snowflake, etc.) and modern cloud-native services |
 
@@ -447,7 +447,7 @@ My strongest areas are development, solutions architecture, and platform enginee
 
 # Appendix B - How it works for me
 
-TOGAF defines a clear boundary between enterprise (system, solutions, enterprise) and domain (business architects, SMEs) specialists. I also see system design and analysis as an adaptation of the discipline that ensures solutions architecture is grounded in the right business problem.
+Modern frameworks (based on ISO standards) define clear boundaries between functions (system, solutions, enterprise) and domains (business architects, SMEs). I also see system design and analysis as an adaptation of the discipline that ensures solutions architecture is grounded in the right business problem.
 
 A Solutions Architect focuses heavily on solution design and technology choices. An Architecture Analyst contributes by understanding business drivers, analysing capabilities and constraints, assessing options, supporting governance, and helping maintain traceability from business need to architecture decision.
 
@@ -466,8 +466,8 @@ My strongest production background is C#, SQL, Python, AI, data engineering, int
 | Question type | Best example |
 |---|---|
 | Strategic vision | Ask me to build a transformation roadmap |
-| Creativity | Check my [Youtube portfolio playlist](https://www.youtube.com/watch?v=gKHDvFfozak&list=PL6tN65djuMbYepdOWK5Uj9EthS8xUUsMj)  |
+| Creativity | blogging, [portfolio playlist](https://www.youtube.com/watch?v=gKHDvFfozak&list=PL6tN65djuMbYepdOWK5Uj9EthS8xUUsMj) |
 | Adaptability | Bottlenecks are constantly migrating |
 | Collaboration | Show me your frameworks and I will find how to improve them and connect with others |
 | Integrity | Challenging stakeholder-requested solution when a better option existed |
-| Inspiration | Architecture-as-Code, blogging, ML/AI exploration enthusiast |
+| Inspiration | Architecture-as-Code, ML/AI exploration enthusiast |
